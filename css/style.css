@@ -5,6 +5,9 @@
     img {
         max-width: 500px;
     }
+    h1 {
+        font-size: 72px;
+    }    
   }
 
 * {
@@ -22,9 +25,6 @@ img{
     height: auto;
 }
 
-h1 {
-    font-size: 72px;
-}
 
 body {
     width: 70%;
