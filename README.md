@@ -1,2 +1,4 @@
 # odin-recipes
-recipes project  for TheOdinProject
+Recipes project for TheOdinProject
+
+A project for TheOdinProject's HTML Foundations course.
