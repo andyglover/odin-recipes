@@ -1,3 +1,26 @@
 * {
     background-color: blanchedalmond;
 }
+
+h1,p{
+    text-align:center;
+}
+img{
+    display: flex;
+    margin: 0 auto;
+}
+
+
+h1 {
+    font-size: 72px;
+}
+
+.ingredients, .directions {
+    text-align: left;
+    margin-left: 10%;
+}
+
+body {
+    width: 70%;
+    margin: 0 auto;
+}
