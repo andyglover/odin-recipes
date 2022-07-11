@@ -11,16 +11,13 @@ h1,h2,p{
 img{
     display: flex;
     margin: 0 auto;
+    width: 70%;
+    height: auto;
 }
-
 
 h1 {
     font-size: 72px;
 }
-
-
-
-
 
 body {
     width: 70%;
