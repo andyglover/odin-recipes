@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+
+@media screen and (min-width: 575px) {
+     {
+        max-width:500px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 575px) {
+    img {
+        max-width: 90%;
+    }
+  }
+
 * {
     background-color: blanchedalmond;
     font-family: 'Roboto', sans-serif;
@@ -12,7 +26,6 @@ img{
     display: flex;
     margin: 0 auto;
     width: 70%;
-    max-width:500px;
     height: auto;
 }
 
