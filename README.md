@@ -1,22 +1,29 @@
-# odin-recipes
-Recipes project for TheOdinProject
+ # RECIPES
+A project for TheOdinProject's HTML Foundations course. You'll find some summaries of recipes and pictures of some delicious foods.
 
-![Odin with a chef hat](./images/odinchef.png)
+**Link to project:** https://www.andyglover.io/odin-recipes/
 
-A project for TheOdinProject's HTML Foundations course.
+![Thumbnail](./images/project-screenshot.png "screenshot of andyglover.dev")
 
- - In this project, I'm practicing the concept of "atomic commits" and writing concise commit messages.
+## How It's Made:
 
- - I'm also getting the hang of using git from the command line.
+**Tech used:** HTML, CSS
 
- - The silly logo was an opportunity for me to learn how to paste and resize layered images in GIMP.
+It's fun to look back on this project, this was me just getting back into HTML and CSS and having a great time with it, some real fun. Especially hopping into GIMP and putting the chef hat on Odin's head!
 
- - This was a good refresher on how to publish repositories to github pages.
+## Optimizations
 
- - This was a good refresher on the basics of styling web pages with CSS.
+I'd like to make the navigation more consistent on each page, perhaps using javascript to add the same list of links to the top of each page.
 
- 
+## Lessons Learned:
 
- This project is published at: https://www.andyglover.io/odin-recipes/
+This was a big refresher for me, using github pages, basic CSS, GIMP, writing markdown, and committing to github repositories from the command line.
 
- 
+## Examples:
+Here's a few more repositories of mine you might like to check out:
+
+**Rock Paper Scissors:** https://github.com/andyglover/odin-rock-paper-scissors
+
+**GIF Thingy:** https://github.com/andyglover/gif-thingy
+
+**Calculator:** https://github.com/andyglover/odin-calculator
